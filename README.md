@@ -3,6 +3,8 @@ HTML ve Javascript kullanılarak oluşturulan bir oyun projesidir. Oyun hangi ku
 
 Oyun sitesine direkt ulaşmak için : [http://hangikutuda.freevar.com](http://hangikutuda.freevar.com)
 
+Oyunun nasıl oynanıldığının anlatıldığı videoya ulaşmak için : [https://youtu.be/95pwZCo-EIA](https://youtu.be/95pwZCo-EIA)
+
 ## *** OYUN KURALLARIDIR LÜTFEN DİKKATLİ OKUYUNUZ! ***
 - 1- İlk olarak oyuna başlamak için bu kutuyu maddeleri okuduktan sonra "Tamam" tuşuna basarak kapatmanız gerekir.
 - 2- Oyun bir çoğumuzun bildiği "Hangi Kutuda?" oyununun mantığındadır.
