@@ -16,7 +16,7 @@ Oyunun nasıl oynanıldığının anlatıldığı videoya ulaşmak için : [http
 - 8- Eğer yanlış kutuyu seçerseniz oyun sonlanır ve kaç puan aldığınız ekranda gözükür. "TEKRAR OYNA" tuşuna basarak oyuna yeniden başlayabilirsiniz.
 - 9- Oyundan Maksimum verimi alabilmek için tam ekranda oynayınız.
 
-### *** OYUN İÇİ GÖRÜNTÜLER ***
+## *** OYUN İÇİ GÖRÜNTÜLER ***
 
 ![](https://i.hizliresim.com/cy2wqm1.png)
 ![](https://i.hizliresim.com/qny1dkf.png)
